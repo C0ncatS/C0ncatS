@@ -14,7 +14,7 @@
 ## 🧑‍💻 About Me
 
 - Passionate software developer focused on robust, scalable web applications.
-- Specializing in **Django**, **Django REST Framework (DRF)**, and **Spring Boot**.
+- Specializing in **Django**, **Django REST Framework (DRF)**, **Spring Boot**, and **Laravel**.
 - Always exploring new tech and best practices for backend/API development.
 
 ---
