@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ahmad Selo 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Software+Developer;Django+%7C+DRF+%7C+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Developer;Django+%7C+DRF+%7C+Spring+Boot+%7C+Laravel" alt="Typing SVG" />
 </p>
 
 <p align="center">
